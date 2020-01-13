@@ -4,7 +4,7 @@ def base_hash
   #hash
   #hash[key]
   base_hash = {
-    key => "value"
+    :key => "value"
   }
 end
 
