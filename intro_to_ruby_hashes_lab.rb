@@ -17,10 +17,10 @@ def monopoly_with_third_tier
     railroads: {
       pieces: 4,
       rent_in_dollars: {
-        one_piece_owned:,
-        two_pieces_owned:,
-        three_pieces_owned:,
-        four_pieces_owned:
+        one_piece_owned:1,
+        two_pieces_owned:2,
+        three_pieces_owned:3,
+        four_pieces_owned:4,
       }
     }
   }
